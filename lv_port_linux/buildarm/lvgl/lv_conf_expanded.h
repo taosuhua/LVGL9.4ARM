@@ -33,7 +33,7 @@
 #define LV_INTTYPES_INCLUDE     <inttypes.h>
 #define LV_LIMITS_INCLUDE       <limits.h>
 #define LV_STDARG_INCLUDE       <stdarg.h>
-#define LV_DEF_REFR_PERIOD  5
+#define LV_DEF_REFR_PERIOD  33
 #define LV_DPI_DEF 130
 #define LV_USE_OS   LV_OS_NONE
 #define LV_DRAW_BUF_STRIDE_ALIGN                1
