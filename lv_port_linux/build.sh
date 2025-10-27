@@ -27,7 +27,7 @@ do
     ;; 
   -clean)
     rm ./buildarm/ -rf
-    rm ./buildlx86/ -rf
+    rm ./buildx86/ -rf
     echo "clean project success"
     exit 0
     ;;
