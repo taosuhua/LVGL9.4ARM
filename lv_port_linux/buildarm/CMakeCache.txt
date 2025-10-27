@@ -250,6 +250,9 @@ CONFIG_LV_USE_PRIVATE_API:BOOL=OFF
 //Use the internal version of ThorVG
 CONFIG_LV_USE_THORVG_INTERNAL:BOOL=ON
 
+//Path to a library.
+G2D_LIBRARY:FILEPATH=G2D_LIBRARY-NOTFOUND
+
 //Can be used to specify the include dir containing lv_conf.h,
 // to be used in conjunction with LV_CONF_INCLUDE_SIMPLE
 LV_BUILD_CONF_DIR:PATH=
