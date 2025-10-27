@@ -210,18 +210,5 @@ int main(int argc, char **argv)
         lv_timer_handler();
         usleep(1000);
     }
-    // while(1)
-    // {
-    //     uint32_t start = lv_tick_get();
-    //     lv_timer_handler();
-    //     uint32_t elapsed = lv_tick_get() - start;
-        
-    //     // 关键：保证每次循环间隔约 5ms
-    //     if(elapsed < 5) {
-    //         usleep((5 - elapsed) * 1000);
-    //     } else {
-    //         printf("WARNING: lv_timer_handler took %u ms\n", elapsed);
-    //     }
-    // }
     return 0;
 }
