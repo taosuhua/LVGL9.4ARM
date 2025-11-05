@@ -32,6 +32,7 @@
 
 
 #include "mpu6050.h"
+#include "gzp6891dc05kpw.h"
 
 /* Internal functions */
 static void configure_simulator(int argc, char **argv);
@@ -204,7 +205,7 @@ int main(int argc, char **argv)
     // lv_demo_widgets();
     // lv_demo_benchmark();
     // setup_mpu6050_and_ui();
-    
+    gzp6891dc_test();
    setup_mpu6050_chart_refresh();
 	while(1){
         lv_timer_handler();

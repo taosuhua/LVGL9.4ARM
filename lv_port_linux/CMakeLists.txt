@@ -386,6 +386,7 @@ add_executable(lvglsim
     src/fontawesome60.c
     src/fontawesome80.c
     src/platnomor200.c
+    src/gzp6891dc05kpw.c
     ${LV_LINUX_SRC}
     ${LV_LINUX_BACKEND_SRC}
 )

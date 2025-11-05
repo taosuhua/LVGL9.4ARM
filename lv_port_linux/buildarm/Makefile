@@ -324,6 +324,30 @@ src/fontawesome80.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/lvglsim.dir/build.make CMakeFiles/lvglsim.dir/src/fontawesome80.c.s
 .PHONY : src/fontawesome80.c.s
 
+src/gzp6891dc05kpw.o: src/gzp6891dc05kpw.c.o
+.PHONY : src/gzp6891dc05kpw.o
+
+# target to build an object file
+src/gzp6891dc05kpw.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lvglsim.dir/build.make CMakeFiles/lvglsim.dir/src/gzp6891dc05kpw.c.o
+.PHONY : src/gzp6891dc05kpw.c.o
+
+src/gzp6891dc05kpw.i: src/gzp6891dc05kpw.c.i
+.PHONY : src/gzp6891dc05kpw.i
+
+# target to preprocess a source file
+src/gzp6891dc05kpw.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lvglsim.dir/build.make CMakeFiles/lvglsim.dir/src/gzp6891dc05kpw.c.i
+.PHONY : src/gzp6891dc05kpw.c.i
+
+src/gzp6891dc05kpw.s: src/gzp6891dc05kpw.c.s
+.PHONY : src/gzp6891dc05kpw.s
+
+# target to generate assembly for a file
+src/gzp6891dc05kpw.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lvglsim.dir/build.make CMakeFiles/lvglsim.dir/src/gzp6891dc05kpw.c.s
+.PHONY : src/gzp6891dc05kpw.c.s
+
 src/lib/display_backends/fbdev.o: src/lib/display_backends/fbdev.c.o
 .PHONY : src/lib/display_backends/fbdev.o
 
@@ -559,6 +583,9 @@ help:
 	@echo "... src/fontawesome80.o"
 	@echo "... src/fontawesome80.i"
 	@echo "... src/fontawesome80.s"
+	@echo "... src/gzp6891dc05kpw.o"
+	@echo "... src/gzp6891dc05kpw.i"
+	@echo "... src/gzp6891dc05kpw.s"
 	@echo "... src/lib/display_backends/fbdev.o"
 	@echo "... src/lib/display_backends/fbdev.i"
 	@echo "... src/lib/display_backends/fbdev.s"

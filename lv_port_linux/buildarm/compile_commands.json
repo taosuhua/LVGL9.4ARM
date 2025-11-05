@@ -56,6 +56,11 @@
 },
 {
   "directory": "/home/black/lvgl/lv_port_linux/buildarm",
+  "command": "/home/black/tspi/buildroot/output/rockchip_rk3566/host/bin/aarch64-buildroot-linux-gnu-gcc -DLV_CONF_PATH=\\\"/home/black/lvgl/lv_port_linux/buildarm/lv_conf.h\\\" -DLV_KCONFIG_IGNORE -DLV_LVGL_H_INCLUDE_SIMPLE -I/home/black/lvgl/lv_port_linux/src -I/usr/include/libevdev-1.0 -I/home/black/lvgl/lv_port_linux/src/lib -I/home/black/lvgl/lv_port_linux -isystem /home/black/lvgl/lv_port_linux/buildarm -isystem /home/black/lvgl/lv_port_linux/lvgl -isystem /home/black/lvgl/lv_port_linux/buildarm/lvgl -isystem /home/black/lvgl/lv_port_linux/lvgl/examples -isystem /home/black/lvgl/lv_port_linux/lvgl/demos  -Wall -Wextra -Wpedantic -std=gnu99 -o CMakeFiles/lvglsim.dir/src/gzp6891dc05kpw.c.o -c /home/black/lvgl/lv_port_linux/src/gzp6891dc05kpw.c",
+  "file": "/home/black/lvgl/lv_port_linux/src/gzp6891dc05kpw.c"
+},
+{
+  "directory": "/home/black/lvgl/lv_port_linux/buildarm",
   "command": "/home/black/tspi/buildroot/output/rockchip_rk3566/host/bin/aarch64-buildroot-linux-gnu-gcc -DLV_CONF_PATH=\\\"/home/black/lvgl/lv_port_linux/buildarm/lv_conf.h\\\" -DLV_KCONFIG_IGNORE -DLV_LVGL_H_INCLUDE_SIMPLE -I/home/black/lvgl/lv_port_linux/src -I/usr/include/libevdev-1.0 -I/home/black/lvgl/lv_port_linux/src/lib -I/home/black/lvgl/lv_port_linux -isystem /home/black/lvgl/lv_port_linux/buildarm -isystem /home/black/lvgl/lv_port_linux/lvgl -isystem /home/black/lvgl/lv_port_linux/buildarm/lvgl -isystem /home/black/lvgl/lv_port_linux/lvgl/examples -isystem /home/black/lvgl/lv_port_linux/lvgl/demos  -Wall -Wextra -Wpedantic -std=gnu99 -o CMakeFiles/lvglsim.dir/src/lib/driver_backends.c.o -c /home/black/lvgl/lv_port_linux/src/lib/driver_backends.c",
   "file": "/home/black/lvgl/lv_port_linux/src/lib/driver_backends.c"
 },
