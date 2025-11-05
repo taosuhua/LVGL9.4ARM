@@ -5,7 +5,7 @@
 #define I2C_DEV         "/dev/i2c-2"
 #define MPU_ADDR        0x68
 #define READ_PERIOD     30
-#define CHART_POINTS    80
+#define CHART_POINTS    50
 #ifndef M_PI
 #define M_PI 3.14159265358979323846
 #endif
@@ -25,5 +25,6 @@ typedef struct {
 void setup_mpu6050_and_ui(void);
 void mpu6050_chart_display_ui(void);
 void setup_mpu6050_chart_refresh(void);
+void modern_ui_mpu6050(void);
 
 #endif

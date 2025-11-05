@@ -381,7 +381,11 @@ target_link_libraries(lvgl PUBLIC ${PKG_CONFIG_LIB} m pthread)
 # add_executable(lvglsim src/main.c ${LV_LINUX_SRC} ${LV_LINUX_BACKEND_SRC})
 add_executable(lvglsim
     src/main.c
-    src/mpu6050.c              # ¡û ¼ÓÉÏËü
+    src/mpu6050.c
+    src/arial120.c
+    src/fontawesome60.c
+    src/fontawesome80.c
+    src/platnomor200.c
     ${LV_LINUX_SRC}
     ${LV_LINUX_BACKEND_SRC}
 )

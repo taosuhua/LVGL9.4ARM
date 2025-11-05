@@ -205,10 +205,10 @@ int main(int argc, char **argv)
     // lv_demo_benchmark();
     // setup_mpu6050_and_ui();
     
-    setup_mpu6050_chart_refresh();
+   setup_mpu6050_chart_refresh();
 	while(1){
         lv_timer_handler();
-        usleep(1000);
+        // usleep(10000);
     }
     return 0;
 }
