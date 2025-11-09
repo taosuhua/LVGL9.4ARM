@@ -5,6 +5,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/lvglsim.dir/src/fontawesome60.c.o.d"
   "CMakeFiles/lvglsim.dir/src/fontawesome80.c.o"
   "CMakeFiles/lvglsim.dir/src/fontawesome80.c.o.d"
+  "CMakeFiles/lvglsim.dir/src/gpio_control.c.o"
+  "CMakeFiles/lvglsim.dir/src/gpio_control.c.o.d"
   "CMakeFiles/lvglsim.dir/src/gzp6891dc05kpw.c.o"
   "CMakeFiles/lvglsim.dir/src/gzp6891dc05kpw.c.o.d"
   "CMakeFiles/lvglsim.dir/src/lib/display_backends/fbdev.c.o"

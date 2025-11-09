@@ -1357,6 +1357,174 @@ CMakeFiles/lvglsim.dir/src/fontawesome80.c.o: ../src/fontawesome80.c \
   ../lvgl/src/lv_api_map_v9_2.h \
   ../lvgl/src/lv_api_map_v9_3.h
 
+CMakeFiles/lvglsim.dir/src/gpio_control.c.o: ../src/gpio_control.c \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/stdc-predef.h \
+  ../src/gpio_control.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/fcntl.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/features.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/features-time64.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/wordsize.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/timesize.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/sys/cdefs.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/long-double.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/gnu/stubs.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/gnu/stubs-lp64.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/types.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/typesizes.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/time64.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/fcntl.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/fcntl-linux.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/types/struct_timespec.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/endian.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/endianness.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/types/time_t.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/stat.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/struct_stat.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/unistd.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/posix_opt.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/environments.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/lib/gcc/aarch64-buildroot-linux-gnu/10.3.0/include/stddef.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/confname.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/getopt_posix.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/getopt_core.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/lib/gcc/aarch64-buildroot-linux-gnu/10.3.0/include-fixed/bits/unistd_ext.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/stdlib.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/libc-header-start.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/waitflags.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/waitstatus.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/floatn.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/floatn-common.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/sys/types.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/types/clock_t.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/types/clockid_t.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/types/timer_t.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/stdint-intn.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/endian.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/byteswap.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/uintn-identity.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/sys/select.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/select.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/types/sigset_t.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/types/__sigset_t.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/types/struct_timeval.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/pthreadtypes.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/thread-shared-types.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/pthreadtypes-arch.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/atomic_wide_counter.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/struct_mutex.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/struct_rwlock.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/alloca.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/stdlib-float.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/stdio.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/lib/gcc/aarch64-buildroot-linux-gnu/10.3.0/include/stdarg.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/types/__fpos_t.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/types/__mbstate_t.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/types/__fpos64_t.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/types/__FILE.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/types/FILE.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/types/struct_FILE.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/stdio_lim.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/string.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/types/locale_t.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/types/__locale_t.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/strings.h
+
+CMakeFiles/lvglsim.dir/src/gzp6891dc05kpw.c.o: ../src/gzp6891dc05kpw.c \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/stdc-predef.h \
+  ../src/gzp6891dc05kpw.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/stdio.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/libc-header-start.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/features.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/features-time64.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/wordsize.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/timesize.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/sys/cdefs.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/long-double.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/gnu/stubs.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/gnu/stubs-lp64.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/lib/gcc/aarch64-buildroot-linux-gnu/10.3.0/include/stddef.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/lib/gcc/aarch64-buildroot-linux-gnu/10.3.0/include/stdarg.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/types.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/typesizes.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/time64.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/types/__fpos_t.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/types/__mbstate_t.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/types/__fpos64_t.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/types/__FILE.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/types/FILE.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/types/struct_FILE.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/stdio_lim.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/floatn.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/floatn-common.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/lib/gcc/aarch64-buildroot-linux-gnu/10.3.0/include/stdint.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/stdint.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/wchar.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/stdint-intn.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/stdint-uintn.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/stdlib.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/waitflags.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/waitstatus.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/sys/types.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/types/clock_t.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/types/clockid_t.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/types/time_t.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/types/timer_t.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/endian.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/endian.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/endianness.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/byteswap.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/uintn-identity.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/sys/select.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/select.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/types/sigset_t.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/types/__sigset_t.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/types/struct_timeval.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/types/struct_timespec.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/pthreadtypes.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/thread-shared-types.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/pthreadtypes-arch.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/atomic_wide_counter.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/struct_mutex.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/struct_rwlock.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/alloca.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/stdlib-float.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/fcntl.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/fcntl.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/fcntl-linux.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/stat.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/struct_stat.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/unistd.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/posix_opt.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/environments.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/confname.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/getopt_posix.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/getopt_core.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/lib/gcc/aarch64-buildroot-linux-gnu/10.3.0/include-fixed/bits/unistd_ext.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/linux/i2c-dev.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/linux/types.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/asm/types.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/asm-generic/types.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/asm-generic/int-ll64.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/asm/bitsperlong.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/asm-generic/bitsperlong.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/linux/posix_types.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/linux/stddef.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/asm/posix_types.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/asm-generic/posix_types.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/sys/ioctl.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/ioctls.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/asm/ioctls.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/asm-generic/ioctls.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/linux/ioctl.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/asm/ioctl.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/asm-generic/ioctl.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/ioctl-types.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/sys/ttydefaults.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/string.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/types/locale_t.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/types/__locale_t.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/strings.h
+
 CMakeFiles/lvglsim.dir/src/lib/display_backends/fbdev.c.o: ../src/lib/display_backends/fbdev.c \
   /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/stdc-predef.h \
   /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/unistd.h \
@@ -4070,7 +4238,34 @@ CMakeFiles/lvglsim.dir/src/main.c.o: ../src/main.c \
   ../src/lib/driver_backends.h \
   ../src/lib/simulator_util.h \
   ../src/lib/simulator_settings.h \
-  ../src/mpu6050.h
+  ../src/mpu6050.h \
+  ../src/gzp6891dc05kpw.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/fcntl.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/fcntl.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/fcntl-linux.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/stat.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/struct_stat.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/linux/i2c-dev.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/linux/types.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/asm/types.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/asm-generic/types.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/asm-generic/int-ll64.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/asm/bitsperlong.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/asm-generic/bitsperlong.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/linux/posix_types.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/linux/stddef.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/asm/posix_types.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/asm-generic/posix_types.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/sys/ioctl.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/ioctls.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/asm/ioctls.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/asm-generic/ioctls.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/linux/ioctl.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/asm/ioctl.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/asm-generic/ioctl.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/ioctl-types.h \
+  /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/sys/ttydefaults.h \
+  ../src/gpio_control.h
 
 CMakeFiles/lvglsim.dir/src/mpu6050.c.o: ../src/mpu6050.c \
   /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/stdc-predef.h \
@@ -5073,32 +5268,6 @@ CMakeFiles/lvglsim.dir/src/platnomor200.c.o: ../src/platnomor200.c \
 
 /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/math-vector.h:
 
-/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/asm-generic/posix_types.h:
-
-/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/asm/posix_types.h:
-
-/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/asm-generic/bitsperlong.h:
-
-/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/asm/bitsperlong.h:
-
-/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/asm/types.h:
-
-/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/ioctl-types.h:
-
-/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/asm-generic/ioctls.h:
-
-/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/asm-generic/ioctl.h:
-
-/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/asm/ioctls.h:
-
-/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/sys/ioctl.h:
-
-/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/stat.h:
-
-/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/fcntl-linux.h:
-
-/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/fcntl.h:
-
 ../src/mpu6050.h:
 
 ../lvgl/demos/widgets/lv_demo_widgets.h:
@@ -5157,15 +5326,65 @@ CMakeFiles/lvglsim.dir/src/platnomor200.c.o: ../src/platnomor200.c \
 
 ../lvgl/src/draw/sw/blend/lv_draw_sw_blend.h:
 
-/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/sys/ttydefaults.h:
-
-../lvgl/src/draw/sw/lv_draw_sw.h:
-
 ../lvgl/src/core/lv_global.h:
 
 ../src/lib/indev_backends/evdev.c:
 
+/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/types/struct___jmp_buf_tag.h:
+
+/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/types/struct_itimerspec.h:
+
+/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/time.h:
+
+/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/cpu-set.h:
+
+/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/types/struct_sched_param.h:
+
+/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/sched.h:
+
+/home/black/tspi/buildroot/output/rockchip_rk3566/host/lib/gcc/aarch64-buildroot-linux-gnu/10.3.0/include-fixed/pthread.h:
+
+../src/lib/driver_backends.c:
+
+../src/lib/simulator_util.h:
+
+../lvgl/src/draw/sw/lv_draw_sw.h:
+
+/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/sys/ttydefaults.h:
+
+/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/ioctl-types.h:
+
+/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/asm-generic/ioctls.h:
+
+/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/asm-generic/ioctl.h:
+
+/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/asm/ioctls.h:
+
+/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/sys/ioctl.h:
+
+/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/asm-generic/posix_types.h:
+
+/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/asm/posix_types.h:
+
+/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/asm-generic/bitsperlong.h:
+
+/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/asm/bitsperlong.h:
+
+/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/sched.h:
+
+/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/asm-generic/types.h:
+
+/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/asm/types.h:
+
+../src/gzp6891dc05kpw.h:
+
+../src/gzp6891dc05kpw.c:
+
 /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/strings.h:
+
+/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/types/__locale_t.h:
+
+/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/types/locale_t.h:
 
 /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/stdio_lim.h:
 
@@ -5179,32 +5398,6 @@ CMakeFiles/lvglsim.dir/src/platnomor200.c.o: ../src/platnomor200.c \
 
 /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/types/__fpos_t.h:
 
-/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/types/struct___jmp_buf_tag.h:
-
-/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/types/__locale_t.h:
-
-/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/types/locale_t.h:
-
-/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/types/struct_itimerspec.h:
-
-/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/time.h:
-
-/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/cpu-set.h:
-
-/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/types/struct_sched_param.h:
-
-/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/asm-generic/types.h:
-
-/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/sched.h:
-
-/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/sched.h:
-
-/home/black/tspi/buildroot/output/rockchip_rk3566/host/lib/gcc/aarch64-buildroot-linux-gnu/10.3.0/include-fixed/pthread.h:
-
-../src/lib/driver_backends.c:
-
-../src/lib/simulator_util.h:
-
 /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/stdlib-float.h:
 
 /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/struct_mutex.h:
@@ -5214,6 +5407,14 @@ CMakeFiles/lvglsim.dir/src/platnomor200.c.o: ../src/platnomor200.c \
 /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/thread-shared-types.h:
 
 /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/pthreadtypes.h:
+
+/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/types/struct_timeval.h:
+
+/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/types/sigset_t.h:
+
+/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/select.h:
+
+/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/uintn-identity.h:
 
 ../lvgl/src/widgets/keyboard/lv_keyboard.h:
 
@@ -5290,8 +5491,6 @@ CMakeFiles/lvglsim.dir/src/platnomor200.c.o: ../src/platnomor200.c \
 ../lvgl/src/draw/lv_image_dsc.h:
 
 ../lvgl/src/misc/lv_style_gen.h:
-
-/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/uintn-identity.h:
 
 ../lvgl/src/widgets/tileview/lv_tileview.h:
 
@@ -5373,12 +5572,6 @@ CMakeFiles/lvglsim.dir/src/platnomor200.c.o: ../src/platnomor200.c \
 
 /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/stdint-uintn.h:
 
-/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/asm/ioctl.h:
-
-/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/struct_stat.h:
-
-/home/black/tspi/buildroot/output/rockchip_rk3566/host/lib/gcc/aarch64-buildroot-linux-gnu/10.3.0/include/stdbool.h:
-
 /home/black/tspi/buildroot/output/rockchip_rk3566/host/lib/gcc/aarch64-buildroot-linux-gnu/10.3.0/include/stddef.h:
 
 ../lvgl/src/widgets/bar/lv_bar.h:
@@ -5392,6 +5585,8 @@ CMakeFiles/lvglsim.dir/src/platnomor200.c.o: ../src/platnomor200.c \
 ../lvgl/src/widgets/buttonmatrix/lv_buttonmatrix.h:
 
 ../lvgl/src/drivers/opengles/lv_opengles_egl.h:
+
+/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/stat.h:
 
 ../lvgl/src/misc/lv_types.h:
 
@@ -5421,13 +5616,11 @@ CMakeFiles/lvglsim.dir/src/platnomor200.c.o: ../src/platnomor200.c \
 
 ../lvgl/src/misc/lv_utils.h:
 
-/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/linux/posix_types.h:
-
-/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/fcntl.h:
-
-/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/local_lim.h:
-
 ../lvgl/src/widgets/checkbox/lv_checkbox.h:
+
+/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/sys/select.h:
+
+../lvgl/src/core/lv_refr.h:
 
 ../lvgl/src/widgets/tabview/lv_tabview.h:
 
@@ -5444,6 +5637,8 @@ CMakeFiles/lvglsim.dir/src/platnomor200.c.o: ../src/platnomor200.c \
 ../lvgl/src/drivers/wayland/lv_wayland.h:
 
 ../lvgl/src/misc/lv_iter.h:
+
+../src/gpio_control.c:
 
 ../lvgl/src/misc/lv_rb.h:
 
@@ -5473,6 +5668,12 @@ lv_conf.h:
 
 ../lvgl/src/stdlib/lv_sprintf.h:
 
+/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/types/__sigset_t.h:
+
+../lvgl/src/draw/lv_draw_arc.h:
+
+/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/limits.h:
+
 ../lvgl/src/misc/lv_style.h:
 
 ../lvgl/src/draw/lv_draw.h:
@@ -5498,10 +5699,6 @@ lv_conf.h:
 ../lvgl/src/misc/lv_log.h:
 
 ../lvgl/src/misc/lv_async.h:
-
-../lvgl/src/core/lv_refr.h:
-
-/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/sys/select.h:
 
 ../lvgl/src/widgets/lottie/lv_lottie.h:
 
@@ -5534,6 +5731,12 @@ lv_conf.h:
 ../lvgl/src/widgets/calendar/lv_calendar.h:
 
 ../lvgl/src/drivers/opengles/lv_opengles_window.h:
+
+/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/linux/posix_types.h:
+
+/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/local_lim.h:
+
+/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/fcntl.h:
 
 ../lvgl/src/libs/bmp/lv_bmp.h:
 
@@ -5574,8 +5777,6 @@ lv_conf.h:
 ../lvgl/src/widgets/calendar/lv_calendar_chinese.h:
 
 ../lvgl/src/font/lv_binfont_loader.h:
-
-/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/select.h:
 
 ../lvgl/src/misc/lv_matrix.h:
 
@@ -5653,6 +5854,8 @@ lv_conf.h:
 
 /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/types/time_t.h:
 
+/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/fcntl-linux.h:
+
 ../lvgl/src/libs/barcode/lv_barcode.h:
 
 /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/inttypes.h:
@@ -5674,6 +5877,10 @@ lv_conf.h:
 ../lvgl/src/libs/tjpgd/lv_tjpgd.h:
 
 ../lvgl/src/libs/ffmpeg/lv_ffmpeg.h:
+
+../src/lib/display_backends/fbdev.c:
+
+../lvgl/src/libs/svg/lv_svg.h:
 
 ../lvgl/src/misc/lv_profiler.h:
 
@@ -5753,11 +5960,23 @@ lv_conf.h:
 
 ../lvgl/src/lv_api_map_v9_2.h:
 
+/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/asm/ioctl.h:
+
+/home/black/tspi/buildroot/output/rockchip_rk3566/host/lib/gcc/aarch64-buildroot-linux-gnu/10.3.0/include/stdbool.h:
+
+/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/struct_stat.h:
+
 ../lvgl/src/lv_api_map_v9_3.h:
 
-../lvgl/src/libs/svg/lv_svg.h:
+/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/fcntl.h:
 
-../src/lib/display_backends/fbdev.c:
+../lvgl/src/libs/gltf/gltf_data/lv_gltf_model.h:
+
+/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/types/struct_timespec.h:
+
+../src/gpio_control.h:
+
+/home/black/tspi/buildroot/output/rockchip_rk3566/host/lib/gcc/aarch64-buildroot-linux-gnu/10.3.0/include-fixed/bits/unistd_ext.h:
 
 /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/posix_opt.h:
 
@@ -5773,12 +5992,6 @@ lv_conf.h:
 
 /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/getopt_core.h:
 
-/home/black/tspi/buildroot/output/rockchip_rk3566/host/lib/gcc/aarch64-buildroot-linux-gnu/10.3.0/include-fixed/bits/unistd_ext.h:
-
-../lvgl/src/libs/gltf/gltf_data/lv_gltf_model.h:
-
-/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/types/struct_timespec.h:
-
 ../lvgl/src/draw/lv_draw_buf.h:
 
 /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/waitflags.h:
@@ -5792,13 +6005,3 @@ lv_conf.h:
 ../src/fontawesome60.c:
 
 /home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/endian.h:
-
-/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/types/sigset_t.h:
-
-../lvgl/src/draw/lv_draw_arc.h:
-
-/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/limits.h:
-
-/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/types/__sigset_t.h:
-
-/home/black/tspi/buildroot/output/rockchip_rk3566/host/aarch64-buildroot-linux-gnu/sysroot/usr/include/bits/types/struct_timeval.h:

@@ -11,14 +11,23 @@
 
 #define I2C_DEV_GZP6891     "/dev/i2c-2"
 #define GZP_ADDR            0x58
-#define PMIN                -500.0
-#define PMAX                500.0
+#define PMIN                -5000.0
+#define PMAX                5000.0
+#define FIFO_SIZE           20        // FIFO缓冲区大小，可根据需要调整
+
+typedef struct {
+    double buffer[FIFO_SIZE];
+    int index;
+    int count;
+    double sum;
+} fifo_filter_t;
 
 typedef struct{
     int fd;
-    uint32_t p_data;
+    int32_t p_data;
+    double p_shift;
     uint16_t t_data;
-    double p_actual,t_actual;
+    double p_actual,t_actual,p_calibrated;
 }gzp_ctx_t;
 
 void gzp6891dc_test(void);

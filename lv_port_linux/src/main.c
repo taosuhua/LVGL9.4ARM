@@ -33,6 +33,7 @@
 
 #include "mpu6050.h"
 #include "gzp6891dc05kpw.h"
+#include "gpio_control.h"
 
 /* Internal functions */
 static void configure_simulator(int argc, char **argv);
@@ -205,6 +206,17 @@ int main(int argc, char **argv)
     // lv_demo_widgets();
     // lv_demo_benchmark();
     // setup_mpu6050_and_ui();
+
+    gpio_set(GPIO3_A1,"out");
+    while(1){
+        gpio_write(GPIO3_A1,1);
+        printf("OFF\n");
+        usleep(100000);
+        gpio_write(GPIO3_A1,0);
+        printf("ON\n");
+        usleep(100000);
+    }
+
     gzp6891dc_test();
    setup_mpu6050_chart_refresh();
 	while(1){

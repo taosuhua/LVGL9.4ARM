@@ -11,6 +11,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/black/lvgl/lv_port_linux/src/arial120.c" "CMakeFiles/lvglsim.dir/src/arial120.c.o" "gcc" "CMakeFiles/lvglsim.dir/src/arial120.c.o.d"
   "/home/black/lvgl/lv_port_linux/src/fontawesome60.c" "CMakeFiles/lvglsim.dir/src/fontawesome60.c.o" "gcc" "CMakeFiles/lvglsim.dir/src/fontawesome60.c.o.d"
   "/home/black/lvgl/lv_port_linux/src/fontawesome80.c" "CMakeFiles/lvglsim.dir/src/fontawesome80.c.o" "gcc" "CMakeFiles/lvglsim.dir/src/fontawesome80.c.o.d"
+  "/home/black/lvgl/lv_port_linux/src/gpio_control.c" "CMakeFiles/lvglsim.dir/src/gpio_control.c.o" "gcc" "CMakeFiles/lvglsim.dir/src/gpio_control.c.o.d"
   "/home/black/lvgl/lv_port_linux/src/gzp6891dc05kpw.c" "CMakeFiles/lvglsim.dir/src/gzp6891dc05kpw.c.o" "gcc" "CMakeFiles/lvglsim.dir/src/gzp6891dc05kpw.c.o.d"
   "/home/black/lvgl/lv_port_linux/src/lib/display_backends/fbdev.c" "CMakeFiles/lvglsim.dir/src/lib/display_backends/fbdev.c.o" "gcc" "CMakeFiles/lvglsim.dir/src/lib/display_backends/fbdev.c.o.d"
   "/home/black/lvgl/lv_port_linux/src/lib/driver_backends.c" "CMakeFiles/lvglsim.dir/src/lib/driver_backends.c.o" "gcc" "CMakeFiles/lvglsim.dir/src/lib/driver_backends.c.o.d"

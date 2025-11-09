@@ -69,38 +69,10 @@ include CMakeFiles/lvglsim.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/lvglsim.dir/flags.make
 
-CMakeFiles/lvglsim.dir/src/main.c.o: CMakeFiles/lvglsim.dir/flags.make
-CMakeFiles/lvglsim.dir/src/main.c.o: ../src/main.c
-CMakeFiles/lvglsim.dir/src/main.c.o: CMakeFiles/lvglsim.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/black/lvgl/lv_port_linux/buildarm/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/lvglsim.dir/src/main.c.o"
-	/home/black/tspi/buildroot/output/rockchip_rk3566/host/bin/aarch64-buildroot-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/lvglsim.dir/src/main.c.o -MF CMakeFiles/lvglsim.dir/src/main.c.o.d -o CMakeFiles/lvglsim.dir/src/main.c.o -c /home/black/lvgl/lv_port_linux/src/main.c
-
-CMakeFiles/lvglsim.dir/src/main.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvglsim.dir/src/main.c.i"
-	/home/black/tspi/buildroot/output/rockchip_rk3566/host/bin/aarch64-buildroot-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/black/lvgl/lv_port_linux/src/main.c > CMakeFiles/lvglsim.dir/src/main.c.i
-
-CMakeFiles/lvglsim.dir/src/main.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvglsim.dir/src/main.c.s"
-	/home/black/tspi/buildroot/output/rockchip_rk3566/host/bin/aarch64-buildroot-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/black/lvgl/lv_port_linux/src/main.c -o CMakeFiles/lvglsim.dir/src/main.c.s
-
-CMakeFiles/lvglsim.dir/src/mpu6050.c.o: CMakeFiles/lvglsim.dir/flags.make
-CMakeFiles/lvglsim.dir/src/mpu6050.c.o: ../src/mpu6050.c
-CMakeFiles/lvglsim.dir/src/mpu6050.c.o: CMakeFiles/lvglsim.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/black/lvgl/lv_port_linux/buildarm/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/lvglsim.dir/src/mpu6050.c.o"
-	/home/black/tspi/buildroot/output/rockchip_rk3566/host/bin/aarch64-buildroot-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/lvglsim.dir/src/mpu6050.c.o -MF CMakeFiles/lvglsim.dir/src/mpu6050.c.o.d -o CMakeFiles/lvglsim.dir/src/mpu6050.c.o -c /home/black/lvgl/lv_port_linux/src/mpu6050.c
-
-CMakeFiles/lvglsim.dir/src/mpu6050.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvglsim.dir/src/mpu6050.c.i"
-	/home/black/tspi/buildroot/output/rockchip_rk3566/host/bin/aarch64-buildroot-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/black/lvgl/lv_port_linux/src/mpu6050.c > CMakeFiles/lvglsim.dir/src/mpu6050.c.i
-
-CMakeFiles/lvglsim.dir/src/mpu6050.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvglsim.dir/src/mpu6050.c.s"
-	/home/black/tspi/buildroot/output/rockchip_rk3566/host/bin/aarch64-buildroot-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/black/lvgl/lv_port_linux/src/mpu6050.c -o CMakeFiles/lvglsim.dir/src/mpu6050.c.s
-
 CMakeFiles/lvglsim.dir/src/arial120.c.o: CMakeFiles/lvglsim.dir/flags.make
 CMakeFiles/lvglsim.dir/src/arial120.c.o: ../src/arial120.c
 CMakeFiles/lvglsim.dir/src/arial120.c.o: CMakeFiles/lvglsim.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/black/lvgl/lv_port_linux/buildarm/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/lvglsim.dir/src/arial120.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/black/lvgl/lv_port_linux/buildarm/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/lvglsim.dir/src/arial120.c.o"
 	/home/black/tspi/buildroot/output/rockchip_rk3566/host/bin/aarch64-buildroot-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/lvglsim.dir/src/arial120.c.o -MF CMakeFiles/lvglsim.dir/src/arial120.c.o.d -o CMakeFiles/lvglsim.dir/src/arial120.c.o -c /home/black/lvgl/lv_port_linux/src/arial120.c
 
 CMakeFiles/lvglsim.dir/src/arial120.c.i: cmake_force
@@ -114,7 +86,7 @@ CMakeFiles/lvglsim.dir/src/arial120.c.s: cmake_force
 CMakeFiles/lvglsim.dir/src/fontawesome60.c.o: CMakeFiles/lvglsim.dir/flags.make
 CMakeFiles/lvglsim.dir/src/fontawesome60.c.o: ../src/fontawesome60.c
 CMakeFiles/lvglsim.dir/src/fontawesome60.c.o: CMakeFiles/lvglsim.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/black/lvgl/lv_port_linux/buildarm/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/lvglsim.dir/src/fontawesome60.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/black/lvgl/lv_port_linux/buildarm/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/lvglsim.dir/src/fontawesome60.c.o"
 	/home/black/tspi/buildroot/output/rockchip_rk3566/host/bin/aarch64-buildroot-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/lvglsim.dir/src/fontawesome60.c.o -MF CMakeFiles/lvglsim.dir/src/fontawesome60.c.o.d -o CMakeFiles/lvglsim.dir/src/fontawesome60.c.o -c /home/black/lvgl/lv_port_linux/src/fontawesome60.c
 
 CMakeFiles/lvglsim.dir/src/fontawesome60.c.i: cmake_force
@@ -128,7 +100,7 @@ CMakeFiles/lvglsim.dir/src/fontawesome60.c.s: cmake_force
 CMakeFiles/lvglsim.dir/src/fontawesome80.c.o: CMakeFiles/lvglsim.dir/flags.make
 CMakeFiles/lvglsim.dir/src/fontawesome80.c.o: ../src/fontawesome80.c
 CMakeFiles/lvglsim.dir/src/fontawesome80.c.o: CMakeFiles/lvglsim.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/black/lvgl/lv_port_linux/buildarm/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/lvglsim.dir/src/fontawesome80.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/black/lvgl/lv_port_linux/buildarm/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/lvglsim.dir/src/fontawesome80.c.o"
 	/home/black/tspi/buildroot/output/rockchip_rk3566/host/bin/aarch64-buildroot-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/lvglsim.dir/src/fontawesome80.c.o -MF CMakeFiles/lvglsim.dir/src/fontawesome80.c.o.d -o CMakeFiles/lvglsim.dir/src/fontawesome80.c.o -c /home/black/lvgl/lv_port_linux/src/fontawesome80.c
 
 CMakeFiles/lvglsim.dir/src/fontawesome80.c.i: cmake_force
@@ -139,24 +111,24 @@ CMakeFiles/lvglsim.dir/src/fontawesome80.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvglsim.dir/src/fontawesome80.c.s"
 	/home/black/tspi/buildroot/output/rockchip_rk3566/host/bin/aarch64-buildroot-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/black/lvgl/lv_port_linux/src/fontawesome80.c -o CMakeFiles/lvglsim.dir/src/fontawesome80.c.s
 
-CMakeFiles/lvglsim.dir/src/platnomor200.c.o: CMakeFiles/lvglsim.dir/flags.make
-CMakeFiles/lvglsim.dir/src/platnomor200.c.o: ../src/platnomor200.c
-CMakeFiles/lvglsim.dir/src/platnomor200.c.o: CMakeFiles/lvglsim.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/black/lvgl/lv_port_linux/buildarm/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/lvglsim.dir/src/platnomor200.c.o"
-	/home/black/tspi/buildroot/output/rockchip_rk3566/host/bin/aarch64-buildroot-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/lvglsim.dir/src/platnomor200.c.o -MF CMakeFiles/lvglsim.dir/src/platnomor200.c.o.d -o CMakeFiles/lvglsim.dir/src/platnomor200.c.o -c /home/black/lvgl/lv_port_linux/src/platnomor200.c
+CMakeFiles/lvglsim.dir/src/gpio_control.c.o: CMakeFiles/lvglsim.dir/flags.make
+CMakeFiles/lvglsim.dir/src/gpio_control.c.o: ../src/gpio_control.c
+CMakeFiles/lvglsim.dir/src/gpio_control.c.o: CMakeFiles/lvglsim.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/black/lvgl/lv_port_linux/buildarm/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/lvglsim.dir/src/gpio_control.c.o"
+	/home/black/tspi/buildroot/output/rockchip_rk3566/host/bin/aarch64-buildroot-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/lvglsim.dir/src/gpio_control.c.o -MF CMakeFiles/lvglsim.dir/src/gpio_control.c.o.d -o CMakeFiles/lvglsim.dir/src/gpio_control.c.o -c /home/black/lvgl/lv_port_linux/src/gpio_control.c
 
-CMakeFiles/lvglsim.dir/src/platnomor200.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvglsim.dir/src/platnomor200.c.i"
-	/home/black/tspi/buildroot/output/rockchip_rk3566/host/bin/aarch64-buildroot-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/black/lvgl/lv_port_linux/src/platnomor200.c > CMakeFiles/lvglsim.dir/src/platnomor200.c.i
+CMakeFiles/lvglsim.dir/src/gpio_control.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvglsim.dir/src/gpio_control.c.i"
+	/home/black/tspi/buildroot/output/rockchip_rk3566/host/bin/aarch64-buildroot-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/black/lvgl/lv_port_linux/src/gpio_control.c > CMakeFiles/lvglsim.dir/src/gpio_control.c.i
 
-CMakeFiles/lvglsim.dir/src/platnomor200.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvglsim.dir/src/platnomor200.c.s"
-	/home/black/tspi/buildroot/output/rockchip_rk3566/host/bin/aarch64-buildroot-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/black/lvgl/lv_port_linux/src/platnomor200.c -o CMakeFiles/lvglsim.dir/src/platnomor200.c.s
+CMakeFiles/lvglsim.dir/src/gpio_control.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvglsim.dir/src/gpio_control.c.s"
+	/home/black/tspi/buildroot/output/rockchip_rk3566/host/bin/aarch64-buildroot-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/black/lvgl/lv_port_linux/src/gpio_control.c -o CMakeFiles/lvglsim.dir/src/gpio_control.c.s
 
 CMakeFiles/lvglsim.dir/src/gzp6891dc05kpw.c.o: CMakeFiles/lvglsim.dir/flags.make
 CMakeFiles/lvglsim.dir/src/gzp6891dc05kpw.c.o: ../src/gzp6891dc05kpw.c
 CMakeFiles/lvglsim.dir/src/gzp6891dc05kpw.c.o: CMakeFiles/lvglsim.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/black/lvgl/lv_port_linux/buildarm/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/lvglsim.dir/src/gzp6891dc05kpw.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/black/lvgl/lv_port_linux/buildarm/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/lvglsim.dir/src/gzp6891dc05kpw.c.o"
 	/home/black/tspi/buildroot/output/rockchip_rk3566/host/bin/aarch64-buildroot-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/lvglsim.dir/src/gzp6891dc05kpw.c.o -MF CMakeFiles/lvglsim.dir/src/gzp6891dc05kpw.c.o.d -o CMakeFiles/lvglsim.dir/src/gzp6891dc05kpw.c.o -c /home/black/lvgl/lv_port_linux/src/gzp6891dc05kpw.c
 
 CMakeFiles/lvglsim.dir/src/gzp6891dc05kpw.c.i: cmake_force
@@ -167,10 +139,52 @@ CMakeFiles/lvglsim.dir/src/gzp6891dc05kpw.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvglsim.dir/src/gzp6891dc05kpw.c.s"
 	/home/black/tspi/buildroot/output/rockchip_rk3566/host/bin/aarch64-buildroot-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/black/lvgl/lv_port_linux/src/gzp6891dc05kpw.c -o CMakeFiles/lvglsim.dir/src/gzp6891dc05kpw.c.s
 
+CMakeFiles/lvglsim.dir/src/main.c.o: CMakeFiles/lvglsim.dir/flags.make
+CMakeFiles/lvglsim.dir/src/main.c.o: ../src/main.c
+CMakeFiles/lvglsim.dir/src/main.c.o: CMakeFiles/lvglsim.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/black/lvgl/lv_port_linux/buildarm/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/lvglsim.dir/src/main.c.o"
+	/home/black/tspi/buildroot/output/rockchip_rk3566/host/bin/aarch64-buildroot-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/lvglsim.dir/src/main.c.o -MF CMakeFiles/lvglsim.dir/src/main.c.o.d -o CMakeFiles/lvglsim.dir/src/main.c.o -c /home/black/lvgl/lv_port_linux/src/main.c
+
+CMakeFiles/lvglsim.dir/src/main.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvglsim.dir/src/main.c.i"
+	/home/black/tspi/buildroot/output/rockchip_rk3566/host/bin/aarch64-buildroot-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/black/lvgl/lv_port_linux/src/main.c > CMakeFiles/lvglsim.dir/src/main.c.i
+
+CMakeFiles/lvglsim.dir/src/main.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvglsim.dir/src/main.c.s"
+	/home/black/tspi/buildroot/output/rockchip_rk3566/host/bin/aarch64-buildroot-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/black/lvgl/lv_port_linux/src/main.c -o CMakeFiles/lvglsim.dir/src/main.c.s
+
+CMakeFiles/lvglsim.dir/src/mpu6050.c.o: CMakeFiles/lvglsim.dir/flags.make
+CMakeFiles/lvglsim.dir/src/mpu6050.c.o: ../src/mpu6050.c
+CMakeFiles/lvglsim.dir/src/mpu6050.c.o: CMakeFiles/lvglsim.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/black/lvgl/lv_port_linux/buildarm/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/lvglsim.dir/src/mpu6050.c.o"
+	/home/black/tspi/buildroot/output/rockchip_rk3566/host/bin/aarch64-buildroot-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/lvglsim.dir/src/mpu6050.c.o -MF CMakeFiles/lvglsim.dir/src/mpu6050.c.o.d -o CMakeFiles/lvglsim.dir/src/mpu6050.c.o -c /home/black/lvgl/lv_port_linux/src/mpu6050.c
+
+CMakeFiles/lvglsim.dir/src/mpu6050.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvglsim.dir/src/mpu6050.c.i"
+	/home/black/tspi/buildroot/output/rockchip_rk3566/host/bin/aarch64-buildroot-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/black/lvgl/lv_port_linux/src/mpu6050.c > CMakeFiles/lvglsim.dir/src/mpu6050.c.i
+
+CMakeFiles/lvglsim.dir/src/mpu6050.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvglsim.dir/src/mpu6050.c.s"
+	/home/black/tspi/buildroot/output/rockchip_rk3566/host/bin/aarch64-buildroot-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/black/lvgl/lv_port_linux/src/mpu6050.c -o CMakeFiles/lvglsim.dir/src/mpu6050.c.s
+
+CMakeFiles/lvglsim.dir/src/platnomor200.c.o: CMakeFiles/lvglsim.dir/flags.make
+CMakeFiles/lvglsim.dir/src/platnomor200.c.o: ../src/platnomor200.c
+CMakeFiles/lvglsim.dir/src/platnomor200.c.o: CMakeFiles/lvglsim.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/black/lvgl/lv_port_linux/buildarm/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/lvglsim.dir/src/platnomor200.c.o"
+	/home/black/tspi/buildroot/output/rockchip_rk3566/host/bin/aarch64-buildroot-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/lvglsim.dir/src/platnomor200.c.o -MF CMakeFiles/lvglsim.dir/src/platnomor200.c.o.d -o CMakeFiles/lvglsim.dir/src/platnomor200.c.o -c /home/black/lvgl/lv_port_linux/src/platnomor200.c
+
+CMakeFiles/lvglsim.dir/src/platnomor200.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvglsim.dir/src/platnomor200.c.i"
+	/home/black/tspi/buildroot/output/rockchip_rk3566/host/bin/aarch64-buildroot-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/black/lvgl/lv_port_linux/src/platnomor200.c > CMakeFiles/lvglsim.dir/src/platnomor200.c.i
+
+CMakeFiles/lvglsim.dir/src/platnomor200.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvglsim.dir/src/platnomor200.c.s"
+	/home/black/tspi/buildroot/output/rockchip_rk3566/host/bin/aarch64-buildroot-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/black/lvgl/lv_port_linux/src/platnomor200.c -o CMakeFiles/lvglsim.dir/src/platnomor200.c.s
+
 CMakeFiles/lvglsim.dir/src/lib/driver_backends.c.o: CMakeFiles/lvglsim.dir/flags.make
 CMakeFiles/lvglsim.dir/src/lib/driver_backends.c.o: ../src/lib/driver_backends.c
 CMakeFiles/lvglsim.dir/src/lib/driver_backends.c.o: CMakeFiles/lvglsim.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/black/lvgl/lv_port_linux/buildarm/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/lvglsim.dir/src/lib/driver_backends.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/black/lvgl/lv_port_linux/buildarm/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/lvglsim.dir/src/lib/driver_backends.c.o"
 	/home/black/tspi/buildroot/output/rockchip_rk3566/host/bin/aarch64-buildroot-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/lvglsim.dir/src/lib/driver_backends.c.o -MF CMakeFiles/lvglsim.dir/src/lib/driver_backends.c.o.d -o CMakeFiles/lvglsim.dir/src/lib/driver_backends.c.o -c /home/black/lvgl/lv_port_linux/src/lib/driver_backends.c
 
 CMakeFiles/lvglsim.dir/src/lib/driver_backends.c.i: cmake_force
@@ -184,7 +198,7 @@ CMakeFiles/lvglsim.dir/src/lib/driver_backends.c.s: cmake_force
 CMakeFiles/lvglsim.dir/src/lib/mouse_cursor_icon.c.o: CMakeFiles/lvglsim.dir/flags.make
 CMakeFiles/lvglsim.dir/src/lib/mouse_cursor_icon.c.o: ../src/lib/mouse_cursor_icon.c
 CMakeFiles/lvglsim.dir/src/lib/mouse_cursor_icon.c.o: CMakeFiles/lvglsim.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/black/lvgl/lv_port_linux/buildarm/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/lvglsim.dir/src/lib/mouse_cursor_icon.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/black/lvgl/lv_port_linux/buildarm/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/lvglsim.dir/src/lib/mouse_cursor_icon.c.o"
 	/home/black/tspi/buildroot/output/rockchip_rk3566/host/bin/aarch64-buildroot-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/lvglsim.dir/src/lib/mouse_cursor_icon.c.o -MF CMakeFiles/lvglsim.dir/src/lib/mouse_cursor_icon.c.o.d -o CMakeFiles/lvglsim.dir/src/lib/mouse_cursor_icon.c.o -c /home/black/lvgl/lv_port_linux/src/lib/mouse_cursor_icon.c
 
 CMakeFiles/lvglsim.dir/src/lib/mouse_cursor_icon.c.i: cmake_force
@@ -198,7 +212,7 @@ CMakeFiles/lvglsim.dir/src/lib/mouse_cursor_icon.c.s: cmake_force
 CMakeFiles/lvglsim.dir/src/lib/simulator_util.c.o: CMakeFiles/lvglsim.dir/flags.make
 CMakeFiles/lvglsim.dir/src/lib/simulator_util.c.o: ../src/lib/simulator_util.c
 CMakeFiles/lvglsim.dir/src/lib/simulator_util.c.o: CMakeFiles/lvglsim.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/black/lvgl/lv_port_linux/buildarm/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/lvglsim.dir/src/lib/simulator_util.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/black/lvgl/lv_port_linux/buildarm/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/lvglsim.dir/src/lib/simulator_util.c.o"
 	/home/black/tspi/buildroot/output/rockchip_rk3566/host/bin/aarch64-buildroot-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/lvglsim.dir/src/lib/simulator_util.c.o -MF CMakeFiles/lvglsim.dir/src/lib/simulator_util.c.o.d -o CMakeFiles/lvglsim.dir/src/lib/simulator_util.c.o -c /home/black/lvgl/lv_port_linux/src/lib/simulator_util.c
 
 CMakeFiles/lvglsim.dir/src/lib/simulator_util.c.i: cmake_force
@@ -212,7 +226,7 @@ CMakeFiles/lvglsim.dir/src/lib/simulator_util.c.s: cmake_force
 CMakeFiles/lvglsim.dir/src/lib/indev_backends/evdev.c.o: CMakeFiles/lvglsim.dir/flags.make
 CMakeFiles/lvglsim.dir/src/lib/indev_backends/evdev.c.o: ../src/lib/indev_backends/evdev.c
 CMakeFiles/lvglsim.dir/src/lib/indev_backends/evdev.c.o: CMakeFiles/lvglsim.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/black/lvgl/lv_port_linux/buildarm/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/lvglsim.dir/src/lib/indev_backends/evdev.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/black/lvgl/lv_port_linux/buildarm/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/lvglsim.dir/src/lib/indev_backends/evdev.c.o"
 	/home/black/tspi/buildroot/output/rockchip_rk3566/host/bin/aarch64-buildroot-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/lvglsim.dir/src/lib/indev_backends/evdev.c.o -MF CMakeFiles/lvglsim.dir/src/lib/indev_backends/evdev.c.o.d -o CMakeFiles/lvglsim.dir/src/lib/indev_backends/evdev.c.o -c /home/black/lvgl/lv_port_linux/src/lib/indev_backends/evdev.c
 
 CMakeFiles/lvglsim.dir/src/lib/indev_backends/evdev.c.i: cmake_force
@@ -226,7 +240,7 @@ CMakeFiles/lvglsim.dir/src/lib/indev_backends/evdev.c.s: cmake_force
 CMakeFiles/lvglsim.dir/src/lib/display_backends/fbdev.c.o: CMakeFiles/lvglsim.dir/flags.make
 CMakeFiles/lvglsim.dir/src/lib/display_backends/fbdev.c.o: ../src/lib/display_backends/fbdev.c
 CMakeFiles/lvglsim.dir/src/lib/display_backends/fbdev.c.o: CMakeFiles/lvglsim.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/black/lvgl/lv_port_linux/buildarm/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/lvglsim.dir/src/lib/display_backends/fbdev.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/black/lvgl/lv_port_linux/buildarm/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/lvglsim.dir/src/lib/display_backends/fbdev.c.o"
 	/home/black/tspi/buildroot/output/rockchip_rk3566/host/bin/aarch64-buildroot-linux-gnu-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/lvglsim.dir/src/lib/display_backends/fbdev.c.o -MF CMakeFiles/lvglsim.dir/src/lib/display_backends/fbdev.c.o.d -o CMakeFiles/lvglsim.dir/src/lib/display_backends/fbdev.c.o -c /home/black/lvgl/lv_port_linux/src/lib/display_backends/fbdev.c
 
 CMakeFiles/lvglsim.dir/src/lib/display_backends/fbdev.c.i: cmake_force
@@ -239,13 +253,14 @@ CMakeFiles/lvglsim.dir/src/lib/display_backends/fbdev.c.s: cmake_force
 
 # Object files for target lvglsim
 lvglsim_OBJECTS = \
-"CMakeFiles/lvglsim.dir/src/main.c.o" \
-"CMakeFiles/lvglsim.dir/src/mpu6050.c.o" \
 "CMakeFiles/lvglsim.dir/src/arial120.c.o" \
 "CMakeFiles/lvglsim.dir/src/fontawesome60.c.o" \
 "CMakeFiles/lvglsim.dir/src/fontawesome80.c.o" \
-"CMakeFiles/lvglsim.dir/src/platnomor200.c.o" \
+"CMakeFiles/lvglsim.dir/src/gpio_control.c.o" \
 "CMakeFiles/lvglsim.dir/src/gzp6891dc05kpw.c.o" \
+"CMakeFiles/lvglsim.dir/src/main.c.o" \
+"CMakeFiles/lvglsim.dir/src/mpu6050.c.o" \
+"CMakeFiles/lvglsim.dir/src/platnomor200.c.o" \
 "CMakeFiles/lvglsim.dir/src/lib/driver_backends.c.o" \
 "CMakeFiles/lvglsim.dir/src/lib/mouse_cursor_icon.c.o" \
 "CMakeFiles/lvglsim.dir/src/lib/simulator_util.c.o" \
@@ -255,13 +270,14 @@ lvglsim_OBJECTS = \
 # External object files for target lvglsim
 lvglsim_EXTERNAL_OBJECTS =
 
-bin/lvglsim: CMakeFiles/lvglsim.dir/src/main.c.o
-bin/lvglsim: CMakeFiles/lvglsim.dir/src/mpu6050.c.o
 bin/lvglsim: CMakeFiles/lvglsim.dir/src/arial120.c.o
 bin/lvglsim: CMakeFiles/lvglsim.dir/src/fontawesome60.c.o
 bin/lvglsim: CMakeFiles/lvglsim.dir/src/fontawesome80.c.o
-bin/lvglsim: CMakeFiles/lvglsim.dir/src/platnomor200.c.o
+bin/lvglsim: CMakeFiles/lvglsim.dir/src/gpio_control.c.o
 bin/lvglsim: CMakeFiles/lvglsim.dir/src/gzp6891dc05kpw.c.o
+bin/lvglsim: CMakeFiles/lvglsim.dir/src/main.c.o
+bin/lvglsim: CMakeFiles/lvglsim.dir/src/mpu6050.c.o
+bin/lvglsim: CMakeFiles/lvglsim.dir/src/platnomor200.c.o
 bin/lvglsim: CMakeFiles/lvglsim.dir/src/lib/driver_backends.c.o
 bin/lvglsim: CMakeFiles/lvglsim.dir/src/lib/mouse_cursor_icon.c.o
 bin/lvglsim: CMakeFiles/lvglsim.dir/src/lib/simulator_util.c.o
@@ -278,7 +294,7 @@ bin/lvglsim: lvgl/lib/liblvgl_thorvg.a
 bin/lvglsim: lvgl/lib/liblvgl_examples.a
 bin/lvglsim: lvgl/lib/liblvgl_demos.a
 bin/lvglsim: CMakeFiles/lvglsim.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/black/lvgl/lv_port_linux/buildarm/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Linking CXX executable bin/lvglsim"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/black/lvgl/lv_port_linux/buildarm/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Linking CXX executable bin/lvglsim"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/lvglsim.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

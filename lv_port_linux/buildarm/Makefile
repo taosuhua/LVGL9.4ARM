@@ -324,6 +324,30 @@ src/fontawesome80.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/lvglsim.dir/build.make CMakeFiles/lvglsim.dir/src/fontawesome80.c.s
 .PHONY : src/fontawesome80.c.s
 
+src/gpio_control.o: src/gpio_control.c.o
+.PHONY : src/gpio_control.o
+
+# target to build an object file
+src/gpio_control.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lvglsim.dir/build.make CMakeFiles/lvglsim.dir/src/gpio_control.c.o
+.PHONY : src/gpio_control.c.o
+
+src/gpio_control.i: src/gpio_control.c.i
+.PHONY : src/gpio_control.i
+
+# target to preprocess a source file
+src/gpio_control.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lvglsim.dir/build.make CMakeFiles/lvglsim.dir/src/gpio_control.c.i
+.PHONY : src/gpio_control.c.i
+
+src/gpio_control.s: src/gpio_control.c.s
+.PHONY : src/gpio_control.s
+
+# target to generate assembly for a file
+src/gpio_control.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lvglsim.dir/build.make CMakeFiles/lvglsim.dir/src/gpio_control.c.s
+.PHONY : src/gpio_control.c.s
+
 src/gzp6891dc05kpw.o: src/gzp6891dc05kpw.c.o
 .PHONY : src/gzp6891dc05kpw.o
 
@@ -583,6 +607,9 @@ help:
 	@echo "... src/fontawesome80.o"
 	@echo "... src/fontawesome80.i"
 	@echo "... src/fontawesome80.s"
+	@echo "... src/gpio_control.o"
+	@echo "... src/gpio_control.i"
+	@echo "... src/gpio_control.s"
 	@echo "... src/gzp6891dc05kpw.o"
 	@echo "... src/gzp6891dc05kpw.i"
 	@echo "... src/gzp6891dc05kpw.s"

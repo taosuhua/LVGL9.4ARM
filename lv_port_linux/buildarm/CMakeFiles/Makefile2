@@ -130,8 +130,8 @@ CMakeFiles/lvgl_linux.dir/clean:
 # Target rules for target CMakeFiles/lvglsim.dir
 
 # All Build rule for target.
-CMakeFiles/lvglsim.dir/all: CMakeFiles/lvgl_linux.dir/all
 CMakeFiles/lvglsim.dir/all: lvgl/CMakeFiles/lvgl.dir/all
+CMakeFiles/lvglsim.dir/all: CMakeFiles/lvgl_linux.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/lvglsim.dir/build.make CMakeFiles/lvglsim.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/lvglsim.dir/build.make CMakeFiles/lvglsim.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/black/lvgl/lv_port_linux/buildarm/CMakeFiles --progress-num=99,100 "Built target lvglsim"

@@ -379,17 +379,19 @@ target_include_directories(lvgl_linux PUBLIC
 target_link_libraries(lvgl PUBLIC ${PKG_CONFIG_LIB} m pthread)
 
 # add_executable(lvglsim src/main.c ${LV_LINUX_SRC} ${LV_LINUX_BACKEND_SRC})
-add_executable(lvglsim
-    src/main.c
-    src/mpu6050.c
-    src/arial120.c
-    src/fontawesome60.c
-    src/fontawesome80.c
-    src/platnomor200.c
-    src/gzp6891dc05kpw.c
-    ${LV_LINUX_SRC}
-    ${LV_LINUX_BACKEND_SRC}
-)
+aux_source_directory(./src SRCS)
+add_executable(lvglsim ${SRCS} ${LV_LINUX_SRC} ${LV_LINUX_BACKEND_SRC})
+# add_executable(lvglsim
+#     src/main.c
+#     src/mpu6050.c
+#     src/arial120.c
+#     src/fontawesome60.c
+#     src/fontawesome80.c
+#     src/platnomor200.c
+#     src/gzp6891dc05kpw.c
+#     ${LV_LINUX_SRC}
+#     ${LV_LINUX_BACKEND_SRC}
+# )
 target_include_directories(lvglsim PRIVATE ${CMAKE_SOURCE_DIR}/src)
 
 target_link_libraries(lvglsim lvgl_linux lvgl)
